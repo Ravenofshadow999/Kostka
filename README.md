@@ -1,2 +1,2 @@
 # Kostka
-Pudełko - zagadka
+Pudełko - łamigłówka
